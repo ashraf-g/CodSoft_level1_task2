@@ -10,6 +10,6 @@ This is the Calculator for CodSoft's 2nd task, showcasing the use of HTML, CSS, 
 
 ## Getting Started
 
-To view the landing page click on link [CodSoft 1st Task Landing Page](https://ashraf-g.github.io/CodSoft_level1_task2/).
+To view the landing page click on link [CodSoft 2nd task Calculator](https://ashraf-g.github.io/CodSoft_level1_task2/).
 
 ---
